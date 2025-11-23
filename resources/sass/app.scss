@@ -1,5 +1,9 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
 @import "bootstrap/scss/bootstrap";
-@import "bootstrap/scss/bootstrap";
+
+/* Tailwind */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
